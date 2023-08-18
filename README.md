@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DhamuGit02/DhamuGit02/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DhamuGit02/DhamuGit02/output/snake.svg" alt="Snake animation" style="filter:invert(100%)"/>
 
 ###
